@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ParseChat</string>
+    <string name="johny_lindsey">Johny Lindsey</string>
+    <string name="profile_other">Other Profile Pic</string>
+    <string name="someone_else_s_message">Someone else\'s message</string>
+    <string name="your_outgoing_message_here">Your outgoing message here</string>
+    <string name="profile_me">My Profile Pic</string>
+</resources>
